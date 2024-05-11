@@ -25,11 +25,6 @@ struct ParametresJeu
     const string nomFenetre{ "Jeu Snake" };
 };
 
-struct teste
-{
-    int teste{};
-};
-
 struct RGB
 {
     int rouge{ 0 };
